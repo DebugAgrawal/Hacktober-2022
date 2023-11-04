@@ -105,7 +105,7 @@ The Player class has three instance variables: wins to keep track of the number 
 card to represent the card a player currently holds,and name to keep track of a player’s name.
 ***********************************************************************
 ***********************************************************************
-
+//new
 # a class to represent the game: 
 
 class Game:
